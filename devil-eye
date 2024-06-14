@@ -1,1 +1,122 @@
-IyEvYmluL2Jhc2gKCnJkPSJcZVsxOzMxbSIKZ3I9IlxlWzE7MzJtIgpjeT0iXGVbMTszNm0iCnlsPSJcZVsxOzMzbSIKCm5hbWU9JCggYmFzZW5hbWUgJDAgKQoKYmFubmVyKCl7CgogICAgY293c2F5IC1mIGV5ZXMgIkRldmlsIC0gRXllIgogICAgZWNobyAtZSAiXG4gICAgICAgICAgICAgJHtyZH1ZT1VUVUJFICR7Y3l9fCR7cmR9IFNBTkRJUCBPUklHIgogICAgZWNobyAtZSAiICAgICAgICAgICR7Y3l9IERFVklMIEVZRSBCWSAke3JkfVNBTkRJUCBHVVJVTkdcbiIKCn0KCmZvbGRlcigpewoKICAgIGlmIFsgISAtZCAiL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9ldGMvJHtuYW1lfSIgXTsgdGhlbgoJbWtkaXIgIi9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjLyR7bmFtZX0iCgogICAgZmkKICAgIGZpbGUKCn0KCmZpbGUoKXsKCiAgICBpZiBbWyAhIC1mICIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2Jpbi8ke25hbWV9IiBdXTsgdGhlbgoJY3AgLWYgIiR7bmFtZX0iICIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2JpbiIKICAgIGZpCgogICAgaWYgW1sgLWYgIiR7UFJFRklYfS9ldGMvbW90ZCIgXV07IHRoZW4KCW12ICIke1BSRUZJWH0vZXRjL21vdGQiICIke1BSRUZJWH0vZXRjL21vdGQub2xkIgogICAgZmkKCn0KCnJlcXVpcmUoKXsKICAgIGNsZWFyCiAgICBlY2hvIC1lICJcMDMzWzE7MzNtWypdIEluc3RhbGxpbmcgZGVwZW5kZW5jaWVzISIKICAgIGFwdCB1cGRhdGUgJiYgYXB0IHVwZ3JhZGUgLXkgJiYgYXB0IGluc3RhbGwgdG9pbGV0IGZpZ2xldCBjb3dzYXkgcnVieSAteSAmJiBnZW0gaW5zdGFsbCBsb2xjYXQKICAgIGNsZWFyCiAgICBlY2hvIC1lICJcZVsxOzMzbVsqXSBTZXR1cCBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5ISIKICAgIGVjaG8gIlsjXSBOb3csIHlvdSBjYW4gZXhlY3V0ZSBkZXZpbC1leWUgZmlsZSB0byBzdGFydCBEZXZpbC1FeWUhIgoKICAgIGVjaG8KCn0KCnRleHRjbGkoKXsKICAgIGZvbGRlcgoKICAgIGVjaG8gIiR7MX0iID4gIi9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjLyR7bmFtZX0vbmFtZS50eHQiCiAgICBlY2hvICIkezJ9IiA+ICIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy8ke25hbWV9L2Jhbm5lci50eHQiCn0KCnRleHQoKXsKICAgIGNsZWFyOyBiYW5uZXI7CiAgICBlY2hvIC1lICJcbiR7Z3J9RW50ZXIgWW91ciBOYW1lOiAke2N5fSIKICAgIHJlYWQgdXNlcgoKICAgIGVjaG8gLWUgIlxuJHtncn1FbnRlciBCYW5uZXIgTmFtZTogJHtjeX0iCiAgICByZWFkIGJhbm5lcgoKICAgIHRleHRjbGkgIiR7dXNlcn0iICIke2Jhbm5lcn0iCn0KCmZpbGVtYW5hZ2UoKXsKCiAgICBpZiBbWyAhIC1mICIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy8ke25hbWV9L2Jhc2guYmFzaHJjX29sZCIgXV07IHRoZW4KCWNwIC1mICIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy9iYXNoLmJhc2hyYyIgIi9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjLyR7bmFtZX0vYmFzaC5iYXNocmNfb2xkIjsKICAgIGZpCgogICAgcm0gL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9ldGMvYmFzaC5iYXNocmMKICAgIGNwIC1mICIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy8ke25hbWV9L2Jhc2guYmFzaHJjX29sZCIgL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9ldGMvYmFzaC5iYXNocmMKCn0KCmhlbHAoKXsKICAgIGNsZWFyOwogICAgYmFubmVyOwogICAgZWNobyAtZSAiXG5cbiAgICAgICAgICAgICAgJHtyZH1bICR7Y3l9SCBPIFcgIFQgTyAgVSBTIEUgJHtyZH1dXG4iCiAgICBlY2hvIC1lICIke2dyfWRldmlsLWV5ZSAke3JkfVske3lsfS0ke2N5fW8ke3JkfV0gJHtncn0oJHtjeX12YWx1ZSR7Z3J9KSIKICAgIGVjaG8gLWUgIiR7Z3J9ZGV2aWwtZXllICR7cmR9WyR7eWx9LS0ke2N5fW9wdGlvbiR7cmR9XSAke2dyfSgke2N5fXZhbHVlJHtncn0pXG4iCiAgICBlY2hvIC1lICJcblxuICAgICAgICAgICAgICAke3JkfVsgJHtjeX1OIEUgRSBEICBIIEUgTCBQICR7cmR9XVxuIgogICAgZWNobyAtZSAiJHtncn1bLXJdIFstLXJlcXVpcmVdICR7cmR9PT4gICR7eWx9VG8gaW5zdGFsbCByZXF1aXJlbWVudHMiCiAgICBlY2hvIC1lICIke2dyfVstdF0gWy0tdGV4dF0gICAgJHtyZH09PiAgJHt5bH1UbyBpbnB1dCBiYW5uZXIgYW5kIG5hbWUiCiAgICBlY2hvIC1lICIke2dyfVstaF0gWy0taGVscF0gICAgJHtyZH09PiAgJHt5bH1OZWVkIGhlbHBcblxuIgogICAgZWNobyAtZSAiJHtyZH1Ob3RlOiAke2dyfURvbid0IHBhc3MgYW55IGFyZ3VtZW50IGZvciAke2N5fUdyYXBoaWNhbCBNb2RlXG4iCgp9CgpzZXR0aW5nKCl7CiAgICBmaWxlbWFuYWdlOwogICAgZWNobyAiKCBjb3dzYXkgLWYgZXllcyA8IC9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjLyR7bmFtZX0vYmFubmVyLnR4dCAmJiB0b2lsZXQgLWYgc21ibG9jayAtLWZpbHRlciBib3JkZXI6bWV0YWwgPCAvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy8ke25hbWV9L25hbWUudHh0ICkgfCBsb2xjYXQiID4+IC9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjL2Jhc2guYmFzaHJjCiAgICBjbGVhcjsKICAgICggY293c2F5IC1mIGV5ZXMgIlN1Y2Nlc3MgRG9uZS4uISIgJiYgdG9pbGV0IC1mIHNtYmxvY2sgLS1maWx0ZXIgYm9yZGVyOm1ldGFsICIgICAgICAgICAgICAgICAgICBEb25lICAgICAgICAgICAgICAgICAgIiApIHwgbG9sY2F0Cn0KCgptYWluKCkgewoKY2FzZSAkMSBpbgogICAgIi1yIiB8ICItLXJlcXVpcmUiKQoJcmVxdWlyZTs7CgogICAgIi10IiB8ICItLXRleHQiKQoJdGV4dGNsaSAiJHsyfSIgIiR7M30iOyBzZXR0aW5nOzsKCiAgICAiIikKCXRleHQ7IHNldHRpbmc7OwoKICAgICItaCIgfCAiLS1oZWxwIiB8ICopCgloZWxwOzsKCmVzYWMKCn0KCm1haW4gIiR7QH0iCg==
+#!/bin/bash
+
+rd="\e[1;31m"
+gr="\e[1;32m"
+cy="\e[1;36m"
+yl="\e[1;33m"
+
+name=$( basename $0 )
+
+banner(){
+
+    cowsay -f eyes "Devil - Eye"
+    echo -e "\n             ${rd}YOUTUBE ${cy}|${rd} SANDIP ORIG"
+    echo -e "          ${cy} DEVIL EYE BY ${rd}SANDIP GURUNG\n"
+
+}
+
+folder(){
+
+    if [ ! -d "/data/data/com.termux/files/usr/etc/${name}" ]; then
+	mkdir "/data/data/com.termux/files/usr/etc/${name}"
+
+    fi
+    file
+
+}
+
+file(){
+
+    if [[ ! -f "/data/data/com.termux/files/usr/bin/${name}" ]]; then
+	cp -f "${name}" "/data/data/com.termux/files/usr/bin"
+    fi
+
+    if [[ -f "${PREFIX}/etc/motd" ]]; then
+	mv "${PREFIX}/etc/motd" "${PREFIX}/etc/motd.old"
+    fi
+
+}
+
+require(){
+    clear
+    echo -e "\033[1;33m[*] Installing dependencies!"
+    apt update && apt upgrade -y && apt install toilet figlet cowsay ruby -y && gem install lolcat
+    clear
+    echo -e "\e[1;33m[*] Setup completed successfully!"
+    echo "[#] Now, you can execute devil-eye file to start Devil-Eye!"
+
+    echo
+
+}
+
+textcli(){
+    folder
+
+    echo "${1}" > "/data/data/com.termux/files/usr/etc/${name}/name.txt"
+    echo "${2}" > "/data/data/com.termux/files/usr/etc/${name}/banner.txt"
+}
+
+text(){
+    clear; banner;
+    echo -e "\n${gr}Enter Your Name: ${cy}"
+    read user
+
+    echo -e "\n${gr}Enter Banner Name: ${cy}"
+    read banner
+
+    textcli "${user}" "${banner}"
+}
+
+filemanage(){
+
+    if [[ ! -f "/data/data/com.termux/files/usr/etc/${name}/bash.bashrc_old" ]]; then
+	cp -f "/data/data/com.termux/files/usr/etc/bash.bashrc" "/data/data/com.termux/files/usr/etc/${name}/bash.bashrc_old";
+    fi
+
+    rm /data/data/com.termux/files/usr/etc/bash.bashrc
+    cp -f "/data/data/com.termux/files/usr/etc/${name}/bash.bashrc_old" /data/data/com.termux/files/usr/etc/bash.bashrc
+
+}
+
+help(){
+    clear;
+    banner;
+    echo -e "\n\n              ${rd}[ ${cy}H O W  T O  U S E ${rd}]\n"
+    echo -e "${gr}devil-eye ${rd}[${yl}-${cy}o${rd}] ${gr}(${cy}value${gr})"
+    echo -e "${gr}devil-eye ${rd}[${yl}--${cy}option${rd}] ${gr}(${cy}value${gr})\n"
+    echo -e "\n\n              ${rd}[ ${cy}N E E D  H E L P ${rd}]\n"
+    echo -e "${gr}[-r] [--require] ${rd}=>  ${yl}To install requirements"
+    echo -e "${gr}[-t] [--text]    ${rd}=>  ${yl}To input banner and name"
+    echo -e "${gr}[-h] [--help]    ${rd}=>  ${yl}Need help\n\n"
+    echo -e "${rd}Note: ${gr}Don't pass any argument for ${cy}Graphical Mode\n"
+
+}
+
+setting(){
+    filemanage;
+    echo "( cowsay -f eyes < /data/data/com.termux/files/usr/etc/${name}/banner.txt && toilet -f smblock --filter border:metal < /data/data/com.termux/files/usr/etc/${name}/name.txt ) | lolcat" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+    clear;
+    ( cowsay -f eyes "Success Done..!" && toilet -f smblock --filter border:metal "                  Done                  " ) | lolcat
+}
+
+
+main() {
+
+case $1 in
+    "-r" | "--require")
+	require;;
+
+    "-t" | "--text")
+	textcli "${2}" "${3}"; setting;;
+
+    "")
+	text; setting;;
+
+    "-h" | "--help" | *)
+	help;;
+
+esac
+
+}
+
+main "${@}"
